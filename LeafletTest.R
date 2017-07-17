@@ -1,4 +1,4 @@
-getwd()
+#leafletCN 中国地图可视化
 getwd()
 library(RMySQL)
 conn <- dbConnect(MySQL(), dbname = "news", 
